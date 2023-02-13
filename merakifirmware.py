@@ -3,9 +3,9 @@
 # merakifirmware.py
 #
 # Version:	1.0
-# Purpose: 		Allow easy rollback of Meraki networks to previous code versions.
+# Purpose: 	Allow easy rollback of Meraki networks to previous code versions.
 # Features: 	1. Allow to show previous versions applied to network
-#				2. Allow to rollback to a previously applied code version
+#		2. Allow to rollback to a previously applied code version
 # Usage:	
 #	
 #
